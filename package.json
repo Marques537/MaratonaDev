@@ -2,7 +2,7 @@
   "name": "MaratonaDev",
   "version": "1.0.0",
   "main": "scripts.js",
-  "scripts": {
+  "scripts":{
     "start": "nodemon server.js"
   },
   "repository": "https://github.com/Marques537/MaratonaDev.git",
